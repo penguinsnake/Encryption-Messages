@@ -1,7 +1,16 @@
 ----------------
-**encryptionMessages**\n
-**PenguinSnakes product**\n
-**version: 1.1**\n
+**encryptionMessages**
+
+
+
+**PenguinSnakes product**
+
+
+
+**version: 1.1**
+
+
+
 
 **BASED ON YOUR COMPUTER YOU MAY NEED TO COPY Encryption-Messages-1.1/internals_/codex files/ TO Encryption-Messages-1.1/codex files/ FOR INSERT TO WORK**
 ----------------
