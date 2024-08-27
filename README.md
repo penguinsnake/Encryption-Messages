@@ -26,7 +26,7 @@
 - This is the developer version, and so two addons come preinstalled:
   - **CreateTool**
   - **AdderTool**
-  - (please note you will havev to use insert -i Tool_Code to make them work!)
+  - (please note you will have to use insert -i Tool_Code to make them work!)
 
 **Usages**:
 - To run CreateTool, use `create`, then follow the prompts to input the following details:
