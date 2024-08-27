@@ -1,0 +1,12 @@
+{
+    "0": {
+        "code": "0",
+        "name": "Help",
+        "version": "1.2.1",
+        "author": "CreateLibs",
+        "author_tag": "CRTlibs",
+        "description": "Help: | insert <code/flag> <if flag selected: code else: none>: use insert -h | check: lists all installed libraries | exit: save&quit",
+        "license": "MIT",
+        "url": "none"
+    }
+}
